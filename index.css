@@ -1,0 +1,87 @@
+main img {
+    width :500px;
+}
+
+header h1,h2 {
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: white;
+}
+
+main img {
+    margin-left : 25%;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(17, 102, 105);
+    color: rgb(0,0,0);
+}
+
+nav a {
+    margin-left: 100px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-bottom: 10%;
+    font-size: 30px;
+
+}
+
+
+
+nav img {
+    margin-top:20px;
+    height: 30px;
+}
+
+nav {
+    background-color: rgb(17, 102, 105);
+    padding: 10px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+.cool_button {
+    background-color: #04191b;
+    color: white;
+    border-radius: 5px;
+    padding-top : 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    border: solid 1px black;
+}
+
+body {
+    background-color:#07171b;
+}
+
+header h2 {
+    font-family: Windlass,, Georgia, serif;
+    color: #F1EEE5 ;
+}
+header h1 {
+    color: #F1EEE5 ;
+}
+
+.cool_game {
+    font-size: 50px;
+    color: #CDF9D9;
+    font-family: Windlass,, Georgia, serif;
+}
+
+.text {
+    color:#CDF9D9 ;
+    font-family: Arial, Helvetica, sans-serif;
+}
